@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\data\\saleswebcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\data\\saleswebcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\models\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\models\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesWebContext.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Data\\SalesWebContext.cs",
+              "RelativeDocumentMoniker": "SalesWeb\\Data\\SalesWebContext.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Data\\SalesWebContext.cs",
+              "RelativeToolTip": "SalesWeb\\Data\\SalesWebContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:43:49.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Startup.cs",
+              "RelativeDocumentMoniker": "SalesWeb\\Startup.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Startup.cs",
+              "RelativeToolTip": "SalesWeb\\Startup.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:42:55.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "SalesWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\appsettings.json",
+              "RelativeToolTip": "SalesWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T00:41:03.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "SalesWeb\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "SalesWeb\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:29:46.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SalesWeb\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Models\\Department.cs",
+              "RelativeToolTip": "SalesWeb\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:19:58.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SalesWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SalesWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:18:49.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SalesWeb\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SalesWeb\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAUwA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-09T00:18:21.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Models\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SalesWeb\\Models\\ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Models\\ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "SalesWeb\\Models\\ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T00:18:14.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
