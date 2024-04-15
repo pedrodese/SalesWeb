@@ -171,3 +171,12 @@ C:\Users\pedro\source\repos\SalesWeb\SalesWeb\bin\Debug\net472\System.Compositio
 C:\Users\pedro\source\repos\SalesWeb\SalesWeb\bin\Debug\net472\System.Composition.TypedParts.dll
 C:\Users\pedro\source\repos\SalesWeb\SalesWeb\bin\Debug\net472\System.Data.SqlClient.dll
 C:\Users\pedro\source\repos\SalesWeb\SalesWeb\bin\Debug\net472\System.Interactive.Async.dll
+C:\Users\pedro\source\repos\SalesWeb\SalesWeb\bin\Debug\net472\MySqlConnector.dll
+C:\Users\pedro\source\repos\SalesWeb\SalesWeb\bin\Debug\net472\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\pedro\source\repos\SalesWeb\SalesWeb\bin\Debug\net472\Pomelo.JsonObject.dll
+C:\Users\pedro\source\repos\SalesWeb\SalesWeb\obj\Debug\net472\SalesWeb.sourcelink.json
+C:\Users\pedro\source\repos\SalesWeb\SalesWeb\obj\Debug\net472\Razor\Views\Departments\Create.cshtml.g.cs
+C:\Users\pedro\source\repos\SalesWeb\SalesWeb\obj\Debug\net472\Razor\Views\Departments\Delete.cshtml.g.cs
+C:\Users\pedro\source\repos\SalesWeb\SalesWeb\obj\Debug\net472\Razor\Views\Departments\Details.cshtml.g.cs
+C:\Users\pedro\source\repos\SalesWeb\SalesWeb\obj\Debug\net472\Razor\Views\Departments\Edit.cshtml.g.cs
+C:\Users\pedro\source\repos\SalesWeb\SalesWeb\obj\Debug\net472\Razor\Views\Departments\Index.cshtml.g.cs
