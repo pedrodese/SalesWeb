@@ -3,8 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\data\\seedingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\models\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\models\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\models\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\views\\sellers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\views\\sellers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\views\\sellers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\services\\exceptions\\dbconcurrencyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\services\\exceptions\\dbconcurrencyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|c:\\users\\pedro\\source\\repos\\salesweb\\salesweb\\services\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE486F2-D3A7-40E9-BC8C-0C6297D82E03}|SalesWeb\\SalesWeb.csproj|solutionrelative:salesweb\\services\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +63,148 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SeedingService.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Data\\SeedingService.cs",
-              "RelativeDocumentMoniker": "SalesWeb\\Data\\SeedingService.cs",
-              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Data\\SeedingService.cs",
-              "RelativeToolTip": "SalesWeb\\Data\\SeedingService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SalesWeb\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Models\\Department.cs",
+              "RelativeToolTip": "SalesWeb\\Models\\Department.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAwwAkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T02:58:47.174Z",
+              "WhenOpened": "2024-04-22T22:29:05.007Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Models\\Seller.cs",
+              "RelativeDocumentMoniker": "SalesWeb\\Models\\Seller.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Models\\Seller.cs",
+              "RelativeToolTip": "SalesWeb\\Models\\Seller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T00:28:57.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Startup.cs",
+              "RelativeDocumentMoniker": "SalesWeb\\Startup.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Startup.cs",
+              "RelativeToolTip": "SalesWeb\\Startup.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAD8AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T00:25:12.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "SalesWeb\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "SalesWeb\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T18:23:00.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Models\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SalesWeb\\Models\\ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Models\\ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "SalesWeb\\Models\\ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:22:02.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Views\\Sellers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SalesWeb\\Views\\Sellers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Views\\Sellers\\Edit.cshtml",
+              "RelativeToolTip": "SalesWeb\\Views\\Sellers\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T18:10:09.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SellersController.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Controllers\\SellersController.cs",
+              "RelativeDocumentMoniker": "SalesWeb\\Controllers\\SellersController.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Controllers\\SellersController.cs",
+              "RelativeToolTip": "SalesWeb\\Controllers\\SellersController.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAIwHoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T18:05:51.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Views\\Sellers\\Create.cshtml",
+              "RelativeDocumentMoniker": "SalesWeb\\Views\\Sellers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Views\\Sellers\\Create.cshtml",
+              "RelativeToolTip": "SalesWeb\\Views\\Sellers\\Create.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwCgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T18:10:15.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Views\\Sellers\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesWeb\\Views\\Sellers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Views\\Sellers\\Index.cshtml",
+              "RelativeToolTip": "SalesWeb\\Views\\Sellers\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-20T18:05:39.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbConcurrencyException.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Services\\Exceptions\\DbConcurrencyException.cs",
+              "RelativeDocumentMoniker": "SalesWeb\\Services\\Exceptions\\DbConcurrencyException.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Services\\Exceptions\\DbConcurrencyException.cs",
+              "RelativeToolTip": "SalesWeb\\Services\\Exceptions\\DbConcurrencyException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:59:35.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Services\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "SalesWeb\\Services\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Services\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "SalesWeb\\Services\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:58:04.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SellerService.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Services\\SellerService.cs",
+              "RelativeDocumentMoniker": "SalesWeb\\Services\\SellerService.cs",
+              "ToolTip": "C:\\Users\\pedro\\source\\repos\\SalesWeb\\SalesWeb\\Services\\SellerService.cs",
+              "RelativeToolTip": "SalesWeb\\Services\\SellerService.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAowDYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T17:54:45.616Z"
             }
           ]
         }
